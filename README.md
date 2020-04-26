@@ -1,2 +1,3 @@
 # lapbang
-data
+Information Techology.
+Data for life!
